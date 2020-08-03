@@ -1,0 +1,66 @@
+»»» 1 Agente Aleatório
+
+
+ID:	4
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 4)
+
+ID:	3
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 3)
+
+ID:	1
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 2)
+
+
+»»» 2 Agente Próximo
+
+
+ID:	3
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 3)
+
+ID:	1
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 2)
+
+ID:	4
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 4)
+
+
+»»» 3 Agente Máxima Diferença
+
+
+ID:	1
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 2)
+
+ID:	3
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 3)
+
+ID:	4
+Tipo:	cadeira
+Cor:	amarelo
+Forma:	quadrado
+Coordenadas:	(1, 4)
+
+

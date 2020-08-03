@@ -1,0 +1,27 @@
+»»» 1 Agente Aleatório
+
+
+Distância Percorrida: 5.0
+Número de Objetos Apreendidos: 4
+Número de Objetos Apreendidos Diferentes: 1
+Número de Objetos Visitados: 4
+
+
+»»» 2 Agente Próximo
+
+
+Distância Percorrida: 5.0
+Número de Objetos Apreendidos: 4
+Número de Objetos Apreendidos Diferentes: 1
+Número de Objetos Visitados: 4
+
+
+»»» 3 Agente Máxima Diferença
+
+
+Distância Percorrida: 3.0
+Número de Objetos Apreendidos: 4
+Número de Objetos Apreendidos Diferentes: 1
+Número de Objetos Visitados: 4
+
+

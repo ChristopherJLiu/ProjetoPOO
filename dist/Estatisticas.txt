@@ -1,0 +1,9 @@
+»»» 1 Agente Próximo
+
+
+Distância Percorrida: 0.0
+Número de Objetos Apreendidos: 1
+Número de Objetos Apreendidos Diferentes: 1
+Número de Objetos Visitados: 1
+
+

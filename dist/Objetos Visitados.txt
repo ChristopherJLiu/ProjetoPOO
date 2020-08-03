@@ -1,0 +1,10 @@
+»»» 1 Agente Próximo
+
+
+ID:	2
+Tipo:	1
+Cor:	1
+Forma:	1
+Coordenadas:	(1, 1)
+
+

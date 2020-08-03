@@ -1,0 +1,81 @@
+Há 3 tipos de agentes:
+1- aleatório
+2- mais próximo
+3- máxima diferença
+Quando quiser criar um novo objeto ou agente basta copiar os seguintes dados e preencher devidamente:
+
+Objeto
+Cor: 
+Forma Geométrica: o
+Tipo de Objeto: 
+x: 
+y: 
+
+Agente
+Tipo: 
+Campo de visão: 
+Cor: 
+Forma Geométrica: 
+x: 
+y: 
+
+PS: o espaçamento entre cada objeto/agente é importante, não esquecer!
+/////////////////////////////
+
+Comprimento do Ambiente: 11
+Largura do Ambiente: 10
+Número de movimentações dos agentes: 3
+
+Objeto
+Cor: amarelo
+Forma Geométrica: quadrado
+Tipo de Objeto: cadeira
+x: 1
+y: 2
+
+Agente
+Tipo: 1
+Campo de visão: 10
+Cor: vermelho
+Forma Geométrica: triângulo
+x: 1
+y: 1
+
+Objeto
+Cor: amarelo
+Forma Geométrica: quadrado
+Tipo de Objeto: cadeira
+x: 1
+y: 3
+
+Objeto
+Cor: amarelo
+Forma Geométrica: quadrado
+Tipo de Objeto: cadeira
+x: 1
+y: 4
+
+Objeto
+Cor: vermelho
+Forma Geométrica: quadrado
+Tipo de Objeto: cadeira
+x: 1
+y: 5
+
+Agente
+Tipo: 2
+Campo de visão: 10
+Cor: verde
+Forma Geométrica: bola
+x: 3
+y: 3
+
+Agente
+Tipo: 3
+Campo de visão: 10
+Cor: vermelho
+Forma Geométrica: triângulo
+x: 2
+y: 2
+
+FIM

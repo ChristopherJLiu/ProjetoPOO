@@ -1,0 +1,27 @@
+»»» 1 Agente Aleatório
+
+1º	Localização: (1, 4)
+
+2º	Localização: (1, 3)
+
+3º	Localização: (1, 2)
+
+
+»»» 2 Agente Próximo
+
+1º	Localização: (1, 3)
+
+2º	Localização: (1, 2)
+
+3º	Localização: (1, 4)
+
+
+»»» 3 Agente Máxima Diferença
+
+1º	Localização: (1, 2)
+
+2º	Localização: (1, 3)
+
+3º	Localização: (1, 4)
+
+
